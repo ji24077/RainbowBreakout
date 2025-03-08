@@ -6,6 +6,9 @@ This project is an implementation of the classic Breakout game written in assemb
 
 This assembly program directly manipulates a bitmap display and processes keyboard input to implement the Breakout game. It initializes the display, draws the start screen, and then transitions into the game loop where the ball and paddle move, collisions are detected, and bricks are removed.
 
+![Image 1](https://github.com/user-attachments/assets/5d0d74b4-b52c-4cc9-b802-394302a700e5)
+
+![Image 2](https://github.com/user-attachments/assets/92906aa7-c7f3-4d84-a892-0962e1e9b01e)
 ## Display & Data Configuration
 
 ### Display Configuration:
